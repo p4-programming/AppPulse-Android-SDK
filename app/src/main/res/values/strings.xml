@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppPulse</string>
+    <string name="sample_crash">Crash Test</string>
+    <string name="sample_anr">ANR Test</string>
+    <string name="sample_leak">Memory Leak Test</string>
+    <string name="sample_security">Security Scan Test</string>
+    <string name="sample_health">Open Health Dashboard</string>
+    <string name="sample_anr_finished">Main thread was blocked long enough for an ANR record.</string>
+    <string name="sample_leak_started">Leak check started. The activity was retained and finished.</string>
+</resources>
